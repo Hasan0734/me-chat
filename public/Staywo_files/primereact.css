@@ -1,0 +1,15 @@
+.p-tabview .p-tabview-panels {
+    background: #1c182b !important;
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    border: 0 none;
+    color: rgba(255, 255, 255, 0.87);
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.p-dialog .p-dialog-header {
+    text-align: left !important;
+}
